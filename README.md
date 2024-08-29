@@ -35,4 +35,4 @@
 </ul
 
 ## :rocket: Status do Projeto
-<h4>Nem comecei</h4>
+<h4>Em provavel desenvolvimento</h4>
